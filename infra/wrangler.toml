@@ -1,8 +1,0 @@
-name = "ai-heetah-worker"
-compatibility_date = "2025-01-01"
-type = "javascript"
-
-[durable_objects]
-bindings = [
-  { name = "CHANNEL", class_name = "Channel" }
-]
