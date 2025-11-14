@@ -1,9 +1,0 @@
-name: ai_heetah_app
-description: AI猎豹 v3.0 简化前端示例
-publish_to: 'none'
-environment:
-  sdk: ">=2.18.0 <3.0.0"
-dependencies:
-  flutter:
-    sdk: flutter
-  cupertino_icons: ^1.0.2
